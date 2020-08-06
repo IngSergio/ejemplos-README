@@ -20,7 +20,7 @@ A continuación se muestran las herramientas necesarias, para poder ejecutar est
   Abrir un terminal donde más convenga y pegar el siguiente código:
 
 ```
-git clone https://sergiopmedel@bitbucket.org/naucalpandeveloper001/ms-glb-session.git
+git clone https://asteci@bitbucket.org/naucalpandeveloper001/ms-glb-session.git
 ```  
 
 * Importar proyecto en Spring Tool Suite
